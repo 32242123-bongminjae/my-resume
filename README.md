@@ -2,12 +2,14 @@
 
 ## 🙋‍♂️ About Me 
 
-* **이름:** [봉민재]
-* **소속:** [단국대학교(죽전) SW 융합대학]
-* **전공:** [컴퓨터 공학과]
-* **학번:** [32242123]
-* **Email:** [bongminga@dankook.ac.kr](mailto:bongminga@dankook.ac.kr)
-* **GitHub:** [github.com/32242123-bongminjae](https://github.com/32242123-bongminjae)
+|  |  |
+| :--- | :--- |
+| **이름** | 봉민재 |
+| **소속** | 단국대학교(죽전) SW융합대학 |
+| **전공** | 컴퓨터공학과 |
+| **학번** | 32242123 |
+| **Email** | [bongminga@dankook.ac.kr](mailto:bongminga@dankook.ac.kr) |
+| **GitHub** | [github.com/32242123-bongminjae](https://github.com/32242123-bongminjae) |
 
 <br>
 
@@ -15,24 +17,24 @@
  * 코딩 과정 자체에서 즐거움을 느끼며, 문제 해결을 위해 몰입하는 것을 좋아하는 개발자입니다.
  * 프로젝트의 전반적인 과정을 계획하고, 주도적으로 팀을 이끌어 나가는 역할에 관심이 많습니다.
  * 팀원들과의 원활한 소통을 중요하게 생각하며, 긍정적인 분위기에서 협업하는 것을 선호합니다.
- * 현재 게임 제작에 큰 흥미를 느끼고 있으며, 다양한 팬게임 및 인디게임 제작 프로젝트에 참여하며 경험을 쌓는것을 목표로 하고 있습니다..
+ * 현재 게임 제작에 큰 흥미를 느끼고 있으며, 다양한 팬게임 및 인디게임 제작 프로젝트에 참여하며 경험을 쌓는 것을 목표로 하고 있습니다.
 
-<br>
+---
 
 ##  🛠️ 기술 스택
 | Category | Skills |
 | :---: | :---: |
-| Backend | `Java`, `Django` |
-| Programming Languages | `C`, `C++`, `Python`, `C#` |
-| Database | `MySQL` |
-| DevOps & Tools | `Docker`, `Git`, `Unity` |
+| Backend | ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white), ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) |
+| Programming Languages | ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white), ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white), ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white), ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| DevOps & Tools | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white), ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white), ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) |
 
-<br>
+---
 
 ## 프로젝트 경험
 ### 1. [PyketMon] (2024.03 ~ 2024.06)
+> **Pygame 라이브러리를 활용하여 2D로 구현한 포켓몬 게임**
 
-* **[Pygame 라이브러리를 활용하여 2D로 구현한 포켓몬 게임]**
 * **개발 인원: 1인**
 * **프로젝트 시연:** [링크](https://youtu.be/WwdN-Gt5KyE)
 * **주요 기능:**
@@ -53,8 +55,8 @@
     * **GitHub:** [링크](https://github.com/32242123-bongminjae/PoketMon_Python)
 
 ### 2. [Django 프로젝트 평점 및 랭킹 웹사이트] (2024.09 ~ 2024.12)
+> **Django와 Docker를 활용한 프로젝트 평점 및 랭킹 시스템 구축**
 
-* **[Django와 Docker를 활용한 프로젝트 평점 및 랭킹 시스템 구축]**
 * **개발 인원:** 1인
 * **프로젝트 시연:** [링크](https://youtu.be/u4lNGH20zSM)
 * **주요 기능:**
@@ -75,8 +77,8 @@
     * **GitHub:** [링크](https://github.com/32242123-bongminjae/Django)
 
 ### 3. [SW 3D FPS Game] (2025.03 ~ 2025.06)
+> **Unity와 오픈소스 에셋/라이브러리를 활용하여 개발한 3D FPS RogueLike 게임**
 
-* **[Unity와 Opensource를 통해 개발한 3D FPS RogueLike 게임]**
 * **개발 인원:** 3인
 * **프로젝트 시연:** [링크](https://youtu.be/I2ObJfuQAIA)
 * **주요 역할 (My Role):**
@@ -95,7 +97,8 @@
     * Opensource 라이센스에 대한 공부 및 활용 방법을 경험
 * **저장소 (Repository):**
     * **GitHub:** [링크](https://github.com/32242123-bongminjae/SWOpenSource)
-<br>
+
+---
 
 ## 🎓 학력 (Education)
 
